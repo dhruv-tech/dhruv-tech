@@ -2,7 +2,7 @@
 #### Nice to meet you :)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv-tech&count_private=true)
 
 <!--
 **dhruv-tech/dhruv-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
