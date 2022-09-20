@@ -8,7 +8,7 @@ Keen bicyclist 🚴🏽 | Devoted Foodie 🍕 | Avid Badminton Player 🏸
 
 🎯 Focused on web application technologies, interested in the internet of things.
 
-✉️ You can reach me at hello@dhruv-tech.
+✉️ You can reach me at hello@dhruv.tech.
 
 
 <section id="dhruv-tech-stats-card">
