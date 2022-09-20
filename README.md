@@ -5,7 +5,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-tech&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true&count_private=true&border_radius=25" />
 </a>
-
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-tech&layout=compact" />
+</a>
 <!--
 **dhruv-tech/dhruv-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
