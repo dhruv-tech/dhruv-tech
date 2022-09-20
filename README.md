@@ -1,5 +1,14 @@
 ## Hello World, I'm Dhruv 👋
-### Nice to meet you :)
+
+### CS @ UBC, Graduating November 2022
+
+Usually a problem solver (developer 🧠), occasionally a problem finder (hacker 🔎).
+
+Keen bicyclist 🚴🏽 | Devoted Foodie 🍕 | Avid Badminton Player 🏸
+
+🎯 Focused on web application technologies, interested in the internet of things.
+
+✉️ You can reach me at hello@dhruv-tech.
 
 
 <section id="dhruv-tech-stats-card">
@@ -15,3 +24,4 @@
         <img align="center" src="https://github-readme-stats-dhruv-tech.vercel.app/api/top-langs/?username=dhruv-tech&layout=compact&hide=HTML%2CCSS%2CJupyter%20Notebook&langs_count=10&theme=dark&border_radius=15&card_width=445&hide_border=true&bg_color=0d1117" />
     </a>
 </section>
+
