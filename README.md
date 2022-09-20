@@ -1,5 +1,5 @@
-### Hello World, I'm Dhruv 👋
-#### Nice to meet you :)
+## Hello World, I'm Dhruv 👋
+### Nice to meet you :)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
