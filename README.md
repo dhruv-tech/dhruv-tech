@@ -6,7 +6,7 @@ Usually a problem solver (developer 🧠), occasionally a problem finder (hacker
 
 Keen bicyclist 🚴🏽 | Devoted Foodie 🍕 | Avid Badminton Player 🏸
 
-🎯 Focused on web application technologies, interested in the internet of things.
+🎯 Focused on web application development & security, interested in the internet of things.
 
 ✉️ You can reach me at hello@dhruv.tech.
 
