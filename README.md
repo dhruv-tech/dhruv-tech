@@ -2,13 +2,13 @@
 
 ### CS @ UBC, Graduating November 2022
 
-Usually a problem solver (developer 🧠), occasionally a problem finder (hacker 🔎).
+#### Fullstack Software Engineer & intermittent Ethical Hacker.
 
-Keen bicyclist 🚴🏽 | Devoted Foodie 🍕 | Avid Badminton Player 🏸
+Devoted Foodie 🍕🧑🏽‍🍳 | Lifelong Learner 📖 | Driven Bicyclist 🚴🏽
 
 🎯 Focused on web application development & security, interested in the internet of things.
 
-✉️ You can reach me at hello@dhruv.tech.
+📨 message@dhruv.tech
 
 
 <section id="dhruv-tech-stats-card">
