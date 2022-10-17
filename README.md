@@ -8,7 +8,7 @@ Devoted Foodie 🍕🧑🏽‍🍳 | Lifelong Learner 📖 | Driven Bicyclist �
 
 🎯 Focused on web application development & security, interested in the internet of things.
 
-📨 message@dhruv.tech
+📨 email@dhruv.tech
 
 
 <section id="dhruv-tech-stats-card">
