@@ -1,7 +1,5 @@
 ## Hello World, I'm Dhruv 👋
 
-### CS @ UBC, Graduating November 2022
-
 #### Fullstack Software Engineer & intermittent Ethical Hacker.
 
 Devoted Foodie 🍕🧑🏽‍🍳 | Lifelong Learner 📖 | Driven Bicyclist 🚴🏽
