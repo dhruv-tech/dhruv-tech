@@ -1,6 +1,6 @@
 ## Hello World, I'm Dhruv 👋
 
-#### Fullstack Developer, Application Security Enthusiast.
+**Fullstack Developer, Application Security Enthusiast.**
 
 🌐 [dhruv.tech](https://dhruv.tech) | 
 🔗 [LinkedIn](https://linkedin.com/in/dhruvmalik) | 
