@@ -1,0 +1,62 @@
+name: Stats Caching
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */3 * * *
+
+jobs:
+  stats:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Stats Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: stats
+        name: Download the stats image
+        with:
+          url: "https://github-readme-stats.dhruv.tech/api?username=dhruv-tech&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0d1117&card_width=300" # Put your own vercel instance URL here
+          target: grs
+          filename: stats.svg # Need to have the file name prepared as svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: stats
+          path: grs
+
+  langs:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Langs Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: stats
+        name: Download the langs image
+        with:
+          url: "https://github-readme-stats.dhruv.tech/api/top-langs/?username=dhruv-tech&layout=compact&hide=HTML%2CCSS%2CJupyter%20Notebook&langs_count=10&theme=dark&border_radius=15&card_width=300&hide_border=true&bg_color=0d1117" # Put your own vercel instance URL here
+          target: grs
+          filename: langs.svg # Need to have the file name prepared as svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: stats
+          path: grs
+  
+  push:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Push
+    needs: [stats, langs] # Put any jobs (card) needed here before we push
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: stats
+          path: grs
+      - name: Push
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: resource/grs # May change to your desired branch name, the final URL need to be updated if you change this
+          build_dir: grs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
